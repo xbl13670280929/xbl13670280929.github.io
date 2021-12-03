@@ -1,14 +1,17 @@
-# xbl13670280929.github.io
-静态资源展示
+# 谢保林 的作品展示
+1.  用于展示平时本人学习中写的东西,全是本人自己手写的;
+2.  本人常用的git地址:https://gitee.com/xiebaolin
+3.  本人经常做笔记,都记录在:https://gitee.com/xiebaolin/front-knowledge-system
 
-### UI框架--ygbh(月光宝盒)
-1.  基于 vue2 + js + rollup 构建的 UI框架
+
+### UI库--ygbh(月光宝盒)
+1.  基于 vue2 + js + rollup 构建的 UI库
 
 	https://xbl13670280929.github.io/ygbh.html
-2.  基于 vue3 + ts + rollup 构建的 UI框架
+2.  基于 vue3 + ts + rollup 构建的 UI库
 
 	https://xbl13670280929.github.io/ygbh-plus.html
-3.  基于 react + ts + rollup 构建的 UI框架
+3.  基于 react + ts + rollup 构建的 UI库
 
 	https://xbl13670280929.github.io/ygbh-react.html
 
