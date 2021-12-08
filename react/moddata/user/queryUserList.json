@@ -1,0 +1,11 @@
+{
+	"flag": "0000",
+	"msg": "success",
+	"data": [{
+		"primaryId": "101",
+		"userId": "101",
+		"userName": "mm01",
+		"nickName": "妹纸01",
+		"sex": "1"
+	}]
+}
