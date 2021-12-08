@@ -1,2 +1,0 @@
-(this.webpackJsonpreactantd2=this.webpackJsonpreactantd2||[]).push([[2],{272:function(t,a,e){"use strict";e.r(a);var n=e(50),c=e(2);a.default=function(){return Object(c.jsx)(n.a,{children:"ExampleList2"})}}}]);
-//# sourceMappingURL=router-ExampleList2.964c6c61.chunk.js.map
