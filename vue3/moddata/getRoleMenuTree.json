@@ -1,0 +1,38 @@
+{
+	"code": "0000",
+	"message": "处理成功",
+	"data": [{
+		"title": "内容管理",
+		"icon": "ios-paper",
+		"children": [{
+			"title": "文章管理",
+			"menuUrl": "ExampleList"
+		},{
+			"title": "评论管理",
+			"menuUrl": "first2"
+		},{
+			"title": "举报管理",
+			"menuUrl": "first3"
+		}]
+	},{
+		"title": "用户管理",
+		"icon": "ios-people",
+		"children": [{
+			"title": "新增用户",
+			"menuUrl": "second1"
+		},{
+			"title": "活跃用户",
+			"menuUrl": "second2"
+		}]
+	},{
+		"title": "样例",
+		"icon": "ios-stats",
+		"children": [{
+			"title": "样例列表",
+			"menuUrl": "ExampleList"
+		},{
+			"title": "活跃用户",
+			"menuUrl": "thrid2"
+		}]
+	}]
+}

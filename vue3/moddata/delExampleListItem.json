@@ -1,0 +1,20 @@
+{
+    "flag": "0000",
+    "msg": "success",
+    "data": {
+        "dataList": [{
+            "primaryId": "001",
+            "name": "John Brown1",
+            "sex": "1",
+            "sexDesc": "男",
+            "date": "2016-10-01"
+        },{
+            "primaryId": "002",
+            "name": "John Brown2",
+            "sex": "2",
+            "sexDesc": "女",
+            "date": "2016-10-02"
+        }],
+        "total": 101
+    }
+}
