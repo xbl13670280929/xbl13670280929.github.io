@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<link rel="icon" href="/vue3h5/favicon.ico" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Vite App</title>
+<link rel="stylesheet" type="text/css" href="/vue3h5/vant.css">
+<script type="module" src="/vue3h5/static/index.8a6ebeb0.js"></script>
+<link rel="stylesheet" href="/vue3h5/static/style.1c7924fe.css">
+</head>
+<body>
+	<div id="app"></div>
+	
+	<script type="text/javascript">
+	function AutoResponse(w = 375) {
+		let html = document.documentElement;
+		let hWidth = html.getBoundingClientRect().width;//拿到html的宽度
+		let num = 100 / 375;
+
+		// 1rem = 100px
+		html.style.fontSize = hWidth * num + "px";
+	}
+	AutoResponse();
+	window.addEventListener("resize", () => AutoResponse());
+	</script>
+</body>
+</html>

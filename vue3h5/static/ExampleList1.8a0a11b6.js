@@ -1,0 +1,1 @@
+import{d as a,r as s,o as e,c as n,a as t,w as r,F as o,b as p}from"./index.8a6ebeb0.js";var i=a({name:"ExampleList1",components:{}});const l=p(" ExampleList1 "),m=p("朴素按钮");i.render=function(a,p,i,u,c,d){const b=s("van-button");return e(),n(o,null,[l,t(b,{plain:"",type:"primary"},{default:r((()=>[m])),_:1})],64)};export{i as default};
