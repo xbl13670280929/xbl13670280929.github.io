@@ -1,0 +1,23 @@
+{
+	"flag": "0000",
+	"msg": "success",
+	"data": [{
+		"primaryId": "101",
+		"userId": "101",
+		"userName": "mm01",
+		"nickName": "妹纸01",
+		"sex": "1"
+	},{
+		"primaryId": "102",
+		"userId": "102",
+		"userName": "mm02",
+		"nickName": "妹纸02",
+		"sex": "2"
+	},{
+		"primaryId": "103",
+		"userId": "103",
+		"userName": "mm03",
+		"nickName": "妹纸03",
+		"sex": "2"
+	}]
+}
